@@ -1,7 +1,7 @@
 # Retail-Sales-analysis
 This repository contains a comprehensive, end-to-end data analysis project demonstrating proficiency across the entire data lifecycle, from initial Data Cleaning and Preprocessing to advanced Customer Segmentation and Business Intelligence reporting.
 
-###🧩 Detailed Project Components
+### Detailed Project Components
 ### 1. Data Cleaning and Preprocessing (Excel)
   Initial Data Audit: Conducted a preliminary check for consistency, completeness, and validity of the raw dataset.
   Data Transformation: Handled missing values, identified and treated outliers, and standardized data formats (e.g., dates, currency).
@@ -23,7 +23,6 @@ This repository contains a comprehensive, end-to-end data analysis project demon
     
 ### 4.Customer Segmentation (Python)
   RFM Analysis: Implemented Recency, Frequency, and Monetary (RFM) analysis to group customers based on purchasing behavior.
-  Clustering: Applied unsupervised machine learning techniques (e.g., K-Means Clustering) to identify distinct customer segments for targeted marketing strategies.
   Segment Profiling: Detailed the characteristics and value of each identified customer segment.
 
 ### 5.Business Intelligence and Reporting (Power BI)
@@ -34,7 +33,7 @@ This repository contains a comprehensive, end-to-end data analysis project demon
 
 ### 6.End-to-End Data Pipeline IntegrationWorkflow:
   Demonstrated a complete, reproducible workflow starting from raw data input and concluding with a finalized BI report.
-  Documentation: Clear steps are provided to replicate the data flow from CSV/Excel $\rightarrow$ SQL $\rightarrow$ Python Analysis $\rightarrow$ Power BI.
+  Documentation: Clear steps are provided to replicate the data flow from CSV/Excel > SQL > Python Analysis > Power BI.
 
 ### Some of the screenshots are given below:
 <img width="1780" height="747" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/8130cb58-9589-42f6-ab80-588be04a0fbc" /> <img width="785" height="627" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/a7c1cb86-0035-4cca-b3ee-8e9069f22d56" />
