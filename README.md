@@ -1,7 +1,7 @@
 # Retail-Sales-analysis
 This repository contains a comprehensive, end-to-end data analysis project demonstrating proficiency across the entire data lifecycle, from initial Data Cleaning and Preprocessing to advanced Customer Segmentation and Business Intelligence reporting.
 
-🧩 Detailed Project Components
+###🧩 Detailed Project Components
 ### 1. Data Cleaning and Preprocessing (Excel)
   Initial Data Audit: Conducted a preliminary check for consistency, completeness, and validity of the raw dataset.
   Data Transformation: Handled missing values, identified and treated outliers, and standardized data formats (e.g., dates, currency).
